@@ -1,0 +1,16 @@
+a {
+    font-family: 'Heebo', sans-serif;
+    font-size: 18px;
+    color: #21243D;
+    line-height: 24px;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.design, .pattern {
+    font-weight: 400;
+}
+
+a:hover {
+    text-decoration: underline;
+}
